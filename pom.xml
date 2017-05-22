@@ -12,6 +12,7 @@
         <module>chap-04-custom-login</module>
         <module>chap-04-http-basic</module>
         <module>chap-04-digest-authentication</module>
+        <module>chap-04-remember-me</module>
     </modules>
 
     <dependencies>
