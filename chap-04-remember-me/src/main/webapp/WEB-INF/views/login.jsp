@@ -15,6 +15,7 @@ pageEncoding="ISO-8859-1"%>
     <form action="/j_spring_security_check" method="post">
         Your Username<input type="text" name="user_param"/><br/>
         Your Password<input type="text" name="pass_param"/><br/>
+        <input type="checkbox" name="_spring_security_remember_me" />
         <input type="submit"/>
     </form>
 </body>
